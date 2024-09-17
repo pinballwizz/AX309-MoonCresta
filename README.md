@@ -1,4 +1,4 @@
-# AX309 - Galaxian
+# AX309 - Moon Cresta
 
 ![Model](AX309_MoonCresta.jpg)
 
