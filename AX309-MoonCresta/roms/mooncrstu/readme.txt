@@ -1,0 +1,1 @@
+unzip rom file "mooncrstu.zip" in here
